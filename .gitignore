@@ -43,3 +43,6 @@ __pycache__/
 # Frontend specific  
 .cache/
 .next/
+
+# Local temporary folders
+/eduflow-analytics/
